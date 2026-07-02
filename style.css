@@ -141,6 +141,11 @@ table a{
     color: #5296a1;
 }
 
+table a:visited{
+    text-decoration: none;
+    color: #5296a1;
+}
+
 
 .hello:hover {
 font-style: italic;
