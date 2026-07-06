@@ -173,6 +173,26 @@ font-style: italic;
     background-position: center;
 }
 
+#selfportraithero {
+    float: left;
+    height: 680px;
+    width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    margin-top: 3em;
+    background-image: url(selfportrait.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#artiststatementhero {
+    float:right;
+    text-align: left;
+    padding: 1em;
+}
+
 .portfolio-tabs{
 
     display: flex;
